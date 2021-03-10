@@ -1,3 +1,3 @@
-Hello, my name is Feng.
+Hello, my name is Feng. Goodby students!
 
-Goodby students!
+This is our third lesson.
